@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewPersonalizada</string>
+    <string name="login">Login</string>
+    <string name="login_loading_state">Please wait…</string>
+</resources>
